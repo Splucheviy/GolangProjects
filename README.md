@@ -1,5 +1,5 @@
 <a id="anchor"></a>
-# GolangProjects
+# Golang Lessons and Projects
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Golang+Lessons+and+Projects)](https://github.com/Splucheviy)
 This repository will contain my knowledge on Golang
 ## Lessons
