@@ -20,13 +20,11 @@ func main() {
 		ch <- "Hello World"
 	}()
 	fmt.Println(<-ch)
-
 	ch = make(chan string, 2)
 	ch <- "1"
 	ch <- "2"
 	fmt.Println(<-ch)
 	fmt.Println(<-ch)
-
 	// wait group
 	var wg sync.WaitGroup
 	wg.Add(1)
