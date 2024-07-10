@@ -11,6 +11,8 @@ This repository will contain my knowledge on Golang
 
 ### Описание каталогов (Description)
 **[GolangConcurrencyLessons](https://github.com/Splucheviy/GolangProjects/tree/main/GolangConcurrencyLessons)** - 
-Каталог содержит проделанную работу по обучению мной многопоточности в языке разработки Golang. Обучающие материалы были просмотрены на канале Golang Dojo в плейлисте посвященном Golang concurrency https://youtube.com/playlist?list=PLve39GJ2D71wSwRQLp_h8B60pKgS85StC&si=5r7zP0H6ebHqL9Sb
+Каталог содержит проделанную работу по обучению мной многопоточности в языке разработки Golang. Обучающие материалы были просмотрены на канале Golang Dojo в плейлисте посвященном Golang concurrency 
+
+Ссылка на соответствующий плейлист: https://youtube.com/playlist?list=PLve39GJ2D71wSwRQLp_h8B60pKgS85StC&si=5r7zP0H6ebHqL9Sb
 
 [Вверх](#anchor)
