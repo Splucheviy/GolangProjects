@@ -5,7 +5,7 @@ This repository will contain my knowledge on Golang
 ## Lessons
 | **No.** | **Name** | 
 | ------- | -------- | 
-|	01  | **[Concurrency](https://github.com/Kopypaster/Data-Science-and-ML-Projects/tree/main/matpltlib)** | 
+|	01  | **[Concurrency](https://github.com/Splucheviy/GolangProjects/tree/main/GolangConcurrencyLessons)** | 
 |	02	| **[Concurrency Patterns]()** | 
 |	03	| **[Golang Patterns]()** | 
 
