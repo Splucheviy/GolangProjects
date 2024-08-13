@@ -1,0 +1,142 @@
+definitions:
+  models.Goods:
+    properties:
+      Id:
+        type: string
+      Name:
+        type: string
+      Price:
+        type: integer
+      Provider:
+        type: integer
+      Quantity:
+        type: integer
+    type: object
+info:
+  contact: {}
+  description: Sklad API Documentation
+  termsOfService: http://swagger.io/terms/
+  title: Sklad API Documentation
+  version: "1.0"
+paths:
+  /goods:
+    get:
+      consumes:
+      - application/json
+      description: Get all goods
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+      summary: Get all goods
+      tags:
+      - Goods
+    post:
+      consumes:
+      - application/json
+      description: Add good
+      parameters:
+      - description: Goods data
+        in: body
+        name: data
+        required: true
+        schema:
+          $ref: '#/definitions/models.Goods'
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            type: string
+      summary: Add good
+      tags:
+      - Goods
+  /goods/{Id}:
+    get:
+      consumes:
+      - application/json
+      description: Get goods by id
+      parameters:
+      - description: Goods id
+        in: path
+        name: Id
+        required: true
+        type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            type: string
+      summary: Get goods by id
+      tags:
+      - Goods
+  /goods/{id}:
+    delete:
+      consumes:
+      - application/json
+      description: Add good
+      parameters:
+      - description: Goods Id for delete
+        in: path
+        name: Id
+        required: true
+        type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            type: string
+      summary: Add good
+      tags:
+      - Goods
+    put:
+      consumes:
+      - application/json
+      description: Add good
+      parameters:
+      - description: Goods id to update
+        in: path
+        name: Id
+        required: true
+        type: string
+      - description: Goods name to update
+        in: body
+        name: Name
+        required: true
+        schema:
+          type: string
+      - description: Goods provider to update
+        in: body
+        name: Provider
+        required: true
+        schema:
+          type: integer
+      - description: Goods price to update
+        in: body
+        name: Price
+        required: true
+        schema:
+          type: integer
+      - description: Goods quantity to update
+        in: body
+        name: Quantity
+        required: true
+        schema:
+          type: integer
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            type: string
+      summary: Add good
+      tags:
+      - Goods
+swagger: "2.0"
