@@ -21,12 +21,12 @@ This repository will contain my knowledge on Golang
 **[Golang REST API Sklad Project](https://github.com/Splucheviy/restApiSkladProject)** - 
   Каталог содержит тестовое задание по написанию REST API для участия в проекте Pretty Pet.  Было необходимо написать апи для склада, продающего товары из Китая и Казахстана. В репозитории две ветки:
 - main
-- psql
-  В ветке main реализация API через моки, в psql - с подключением к БД postgress
+- psql  
+  В ветке main реализация API через моки, в psql - с подключением к БД postgress  
 
 **[Golang algoritms](https://github.com/Splucheviy/Golang-algoritms)** - 
-  В папке собраны алгоритмы golang
+  В папке собраны алгоритмы golang  
 **[AnthonyGG websocket chat and data feed](https://github.com/Splucheviy/AnthonyGG-ws-chat)** - 
-Репозиторий с реализацией чата. Материал доступен на канале по ссылке: https://www.youtube.com/watch?v=JuUAEYLkGbM&t=13s
+Репозиторий с реализацией чата. Материал доступен на канале по ссылке: https://www.youtube.com/watch?v=JuUAEYLkGbM&t=13s  
 
 [Вверх](#anchor)
