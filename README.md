@@ -8,11 +8,25 @@ This repository will contain my knowledge on Golang
 |	01  | **[Concurrency](https://github.com/Splucheviy/GolangProjects/tree/main/GolangConcurrencyLessons)** | 
 |	02	| **[Concurrency Patterns]()** | 
 |	03	| **[Golang Patterns]()** | 
+|	04	| **[Golang REST API Sklad Project](https://github.com/Splucheviy/restApiSkladProject)** | 
+|	05	| **[Golang algoritms](https://github.com/Splucheviy/Golang-algoritms)** |
+|	06	| **[AnthonyGG websocket chat and data feed]()** | 
 
 ### Описание каталогов (Description)
 **[GolangConcurrencyLessons](https://github.com/Splucheviy/GolangProjects/tree/main/GolangConcurrencyLessons)** - 
-Каталог содержит проделанную работу по обучению мной многопоточности в языке разработки Golang. Обучающие материалы были просмотрены на канале Golang Dojo в плейлисте посвященном Golang concurrency 
+  Каталог содержит проделанную работу по обучению мной многопоточности в языке разработки Golang. Обучающие материалы были просмотрены на канале Golang Dojo в плейлисте посвященном Golang concurrency 
 
 Ссылка на соответствующий плейлист: https://youtube.com/playlist?list=PLve39GJ2D71wSwRQLp_h8B60pKgS85StC&si=5r7zP0H6ebHqL9Sb
+
+**[Golang REST API Sklad Project](https://github.com/Splucheviy/restApiSkladProject)** - 
+  Каталог содержит тестовое задание по написанию REST API для участия в проекте Pretty Pet.  Было необходимо написать апи для склада, продающего товары из Китая и Казахстана. В репозитории две ветки:
+- main
+- psql
+  В ветке main реализация API через моки, в psql - с подключением к БД postgress
+
+**[Golang algoritms](https://github.com/Splucheviy/Golang-algoritms)** - 
+  В папке собраны алгоритмы golang
+**[AnthonyGG websocket chat and data feed](https://github.com/Splucheviy/AnthonyGG-ws-chat)** - 
+Репозиторий с реализацией чата. Материал доступен на канале по ссылке: https://www.youtube.com/watch?v=JuUAEYLkGbM&t=13s
 
 [Вверх](#anchor)
