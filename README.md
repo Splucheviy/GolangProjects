@@ -10,7 +10,7 @@ This repository will contain my knowledge on Golang
 |	03	| **[Golang Patterns]()** | 
 |	04	| **[Golang REST API Sklad Project](https://github.com/Splucheviy/restApiSkladProject)** | 
 |	05	| **[Golang algoritms](https://github.com/Splucheviy/Golang-algoritms)** |
-|	06	| **[AnthonyGG websocket chat and data feed]()** | 
+|	06	| **[AnthonyGG websocket chat and data feed](https://github.com/Splucheviy/AnthonyGG-ws-chat)** | 
 
 ### Описание каталогов (Description)
 1. **[GolangConcurrencyLessons](https://github.com/Splucheviy/GolangProjects/tree/main/GolangConcurrencyLessons)** - 
