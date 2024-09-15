@@ -26,6 +26,8 @@ This repository will contain my knowledge on Golang
 5. **[Golang algoritms](https://github.com/Splucheviy/Golang-algoritms)** - 
   В папке собраны алгоритмы golang  
 6. **[AnthonyGG websocket chat and data feed](https://github.com/Splucheviy/AnthonyGG-ws-chat)** - 
-Репозиторий с реализацией чата. Материал доступен на канале по ссылке: https://www.youtube.com/watch?v=JuUAEYLkGbM&t=13s  
-7.**[ws-Chat-lwebapp](https://github.com/Splucheviy/ws-Chat-lwebapp)** - Build a Simple Websocket Server in Go with Gin (Материал по ссылке: https://lwebapp.com/en/post/go-websocket-simple-server)  
-[Вверх](#anchor)
+  Репозиторий с реализацией чата. Материал доступен на канале по ссылке: https://www.youtube.com/watch?v=JuUAEYLkGbM&t=13s  
+7.**[ws-Chat-lwebapp](https://github.com/Splucheviy/ws-Chat-lwebapp)** -
+  Build a Simple Websocket Server in Go with Gin (Материал по ссылке: https://lwebapp.com/en/post/go-websocket-simple-server)  
+
+  [Вверх](#anchor)
