@@ -11,6 +11,7 @@ This repository will contain my knowledge on Golang
 |	04	| **[Golang REST API Sklad Project](https://github.com/Splucheviy/restApiSkladProject)** | 
 |	05	| **[Golang algoritms](https://github.com/Splucheviy/Golang-algoritms)** |
 |	06	| **[AnthonyGG websocket chat and data feed](https://github.com/Splucheviy/AnthonyGG-ws-chat)** | 
+|	07	| **[ws-Chat-lwebapp](https://github.com/Splucheviy/ws-Chat-lwebapp)** | 
 
 ### Описание каталогов (Description)
 1. **[GolangConcurrencyLessons](https://github.com/Splucheviy/GolangProjects/tree/main/GolangConcurrencyLessons)** - 
@@ -25,6 +26,6 @@ This repository will contain my knowledge on Golang
 5. **[Golang algoritms](https://github.com/Splucheviy/Golang-algoritms)** - 
   В папке собраны алгоритмы golang  
 6. **[AnthonyGG websocket chat and data feed](https://github.com/Splucheviy/AnthonyGG-ws-chat)** - 
-Репозиторий с реализацией чата. Материал доступен на канале по ссылке: https://www.youtube.com/watch?v=JuUAEYLkGbM&t=13s  
-
+Репозиторий с реализацией чата. Материал доступен на канале по ссылке: https://www.youtube.com/watch?v=JuUAEYLkGbM&t=13s
+7.**[ws-Chat-lwebapp](https://github.com/Splucheviy/ws-Chat-lwebapp)** - Build a Simple Websocket Server in Go with Gin (Материал по ссылке: https://lwebapp.com/en/post/go-websocket-simple-server)
 [Вверх](#anchor)
