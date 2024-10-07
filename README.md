@@ -13,6 +13,7 @@ This repository will contain my knowledge on Golang
 |	06	| **[AnthonyGG websocket chat and data feed](https://github.com/Splucheviy/AnthonyGG-ws-chat)** | 
 |	07	| **[ws-Chat-lwebapp](https://github.com/Splucheviy/ws-Chat-lwebapp)** | 
 |	08	| **[FrancesscoXX CRUD API](https://github.com/Splucheviy/FrancesscoxxCRUDApiLesson/tree/main)** | 
+|	09	| **[Akhil Sharma Go + echo API](https://github.com/Splucheviy/akhilsharmaEchoLesson)** | 
 
 ### Описание каталогов (Description)
 1. **[GolangConcurrencyLessons](https://github.com/Splucheviy/GolangProjects/tree/main/GolangConcurrencyLessons)** - 
@@ -32,3 +33,4 @@ This repository will contain my knowledge on Golang
   Build a Simple Websocket Server in Go with Gin (Материал по ссылке: https://lwebapp.com/en/post/go-websocket-simple-server)     
 8. **[FrancesscoXX CRUD API](https://github.com/Splucheviy/FrancesscoxxCRUDApiLesson/tree/main)** - Make a simple CRUD API lesson from URL: https://www.youtube.com/watch?v=aLVJY-1dKz8  
   [Вверх](#anchor)
+9. **[Akhil Sharma Go + echo API](https://github.com/Splucheviy/akhilsharmaEchoLesson)** - Lesson of golang echo framework from Akhil Sharma Youtube Channel, URL: https://www.youtube.com/watch?v=VSeO9Z026hc&t=1936s
