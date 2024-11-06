@@ -16,6 +16,7 @@ This repository will contain my knowledge on Golang
 |	09	| **[Akhil Sharma Go + echo API](https://github.com/Splucheviy/akhilsharmaEchoLesson)** | 
 |	10	| **[REST API big project on echo](https://github.com/Splucheviy/gopherSchoolLesson)** | 
 |	11	| **[Go + MongoDB test project](https://github.com/Splucheviy/GoMongoDB)** | 
+|	12	| **[Go + Redis test instance](https://github.com/Splucheviy/GoRedisTutorial)** | 
 
 ### Описание каталогов (Description)
 1. **[GolangConcurrencyLessons](https://github.com/Splucheviy/GolangProjects/tree/main/GolangConcurrencyLessons)** - 
@@ -38,3 +39,4 @@ This repository will contain my knowledge on Golang
 9. **[Akhil Sharma Go + echo API](https://github.com/Splucheviy/akhilsharmaEchoLesson)** - Lesson of golang echo framework from Akhil Sharma Youtube Channel, URL: https://www.youtube.com/watch?v=VSeO9Z026hc&t=1936s
 10. **[REST API big project on echo](https://github.com/Splucheviy/gopherSchoolLesson)** - Big REST API Project with echo framework
 11. **[Go + MongoDB test project](https://github.com/Splucheviy/GoMongoDB)** - Тестовый проект для знакомства с MongoDB на Go
+12. **[Go + Redis test instance](https://github.com/Splucheviy/GoRedisTutorial)** - Тестовый проект для знакомства с Redis
