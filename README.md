@@ -18,6 +18,7 @@ This repository will contain my knowledge on Golang
 |	11	| **[Go + MongoDB test project](https://github.com/Splucheviy/GoMongoDB)** | 
 |	12	| **[Go + Redis test instance](https://github.com/Splucheviy/GoRedisTutorial)** | 
 |	13	| **[Tiago ecomm project](https://github.com/Splucheviy/TiagoEcomm)** | 
+|	14	| **[WebSockets in Go](https://github.com/Splucheviy/MiniWebSocketTutor)** | 
 
 
 ### Описание каталогов (Description)
@@ -42,4 +43,5 @@ This repository will contain my knowledge on Golang
 10. **[REST API big project on echo](https://github.com/Splucheviy/gopherSchoolLesson)** - Big REST API Project with echo framework
 11. **[Go + MongoDB test project](https://github.com/Splucheviy/GoMongoDB)** - Тестовый проект для знакомства с MongoDB на Go
 12. **[Go + Redis test instance](https://github.com/Splucheviy/GoRedisTutorial)** - Тестовый проект для знакомства с Redis
-13. **[Tiago ecomm project](https://github.com/Splucheviy/TiagoEcomm)** - Backend API with JWT, MySQL & Tests lesson from Tiago youtube channel 
+13. **[Tiago ecomm project](https://github.com/Splucheviy/TiagoEcomm)** - Backend API with JWT, MySQL & Tests lesson from Tiago youtube channel
+14. **[WebSockets in Go](https://github.com/Splucheviy/MiniWebSocketTutor)** - Master WebSockets in Go: Build an Echo Server & Client with Coder WebSocket 
