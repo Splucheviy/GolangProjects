@@ -19,8 +19,8 @@ This repository will contain my knowledge on Golang
 |	12	| **[Go + Redis test instance](https://github.com/Splucheviy/GoRedisTutorial)** | 
 |	13	| **[Tiago ecomm project](https://github.com/Splucheviy/TiagoEcomm)** | 
 |	14	| **[WebSockets in Go](https://github.com/Splucheviy/MiniWebSocketTutor)** | 
-|	15	| **[Simple Examples with Redis in Go](https://github.com/Splucheviy/GoRedisSimpleExamples)** | 
-
+|	15	| **[Simple Examples with Redis in Go](https://github.com/Splucheviy/GoRedisSimpleExamples)** |
+|	16	| **[Redis in Go with Pokemon API](https://github.com/Splucheviy/GoRedisPokemonApi)** |
 
 ### Описание каталогов (Description)
 1. **[GolangConcurrencyLessons](https://github.com/Splucheviy/GolangProjects/tree/main/GolangConcurrencyLessons)** - 
@@ -46,4 +46,5 @@ This repository will contain my knowledge on Golang
 12. **[Go + Redis test instance](https://github.com/Splucheviy/GoRedisTutorial)** - Тестовый проект для знакомства с Redis
 13. **[Tiago ecomm project](https://github.com/Splucheviy/TiagoEcomm)** - Backend API with JWT, MySQL & Tests lesson from Tiago youtube channel
 14. **[WebSockets in Go](https://github.com/Splucheviy/MiniWebSocketTutor)** - Master WebSockets in Go: Build an Echo Server & Client with Coder WebSocket from URL: https://www.youtube.com/watch?v=3C2RQgLCUJE&list=WL&index=2
-15. **[Simple Examples with Redis in Go](https://github.com/Splucheviy/GoRedisSimpleExamples)** - Simple Examples in Redis in Go 
+15. **[Simple Examples with Redis in Go](https://github.com/Splucheviy/GoRedisSimpleExamples)** - Simple Examples in Redis in Go
+16. **[Redis in Go with Pokemon API](https://github.com/Splucheviy/GoRedisPokemonApi)** - Building a REST API Server with Golang and Redis | Stateless Pokemon Database! 
